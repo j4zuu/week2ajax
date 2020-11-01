@@ -1,0 +1,52 @@
+body {
+    background-color: #ffffff;
+    padding: 30px;
+    font-size: large;
+    font-family: 'Ubuntu', sans-serif;
+}
+#hakuteksti {
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#hakunappi {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: #ffffff;
+}
+
+#hakunappi:hover {
+    background-color: #282851;
+    color: white;
+}
+
+ul {
+    background-color: #000000;
+    padding: 40px;
+    border-radius: 5px;
+    color: white;
+}
+
+header {
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 5px;
+    padding-left: 20px;
+    color: white;
+}
+
+a:visited {
+    color: #546fff;
+}
+
+a:link {
+    color: #ffa3a7;
+}
+
+a:hover {
+    color: white;
+}
